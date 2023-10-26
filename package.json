@@ -1,0 +1,19 @@
+{
+  "name": "interactive-3d-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uzoamaka126/interactive-3d-website.git"
+  },
+  "author": "Uzoamaka Anyanwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uzoamaka126/interactive-3d-website/issues"
+  },
+  "homepage": "https://github.com/Uzoamaka126/interactive-3d-website#readme"
+}
